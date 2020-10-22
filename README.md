@@ -11,7 +11,7 @@ $ pkg install wget
 
 $ pkg install openssh
 
-$ git clone https://github.com/kinghacker0/WishFish
+$ git clone https://github.com/tharangagit-ux/slhack.git
 
 <h3>Usage</h3>
 
